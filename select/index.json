@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "何やってんだろう",
+  "base_artist": "スターダスト☆レビュー",
+  "createdAt": "2025-12-27T10:09:45.118625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何やってんだろう",
+      "artist": "STARDUST REVUE",
+      "has_synced": false,
+      "path": "select/pl_01_何やってんだろう_STARDUST_REVUE.txt"
+    }
+  ]
+}
